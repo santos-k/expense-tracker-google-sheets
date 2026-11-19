@@ -1,0 +1,29 @@
+Category	Sub-Category		Payment Mode	Payment Type		Bank / Card	Bank / Card Type		Purchase Mode		Platform	Platform Type		Merchant
+Grocery 🛒	Vegetables		UPI Bank	Bank		Savings Bank	Bank		Offline 🛒		Amazon	Online		Sharma General Store
+Grocery 🛒	Fruits		UPI Credit Card	Credit Card		Salary Bank	Bank		Online 🧑‍💻		Flipkart	Online		Fresh Mart
+Grocery 🛒	Dairy & Milk		Credit Card	Credit Card		Rewards Card	Credit Card				Swiggy	Online		Green Valley Fruits
+Grocery 🛒	Ration		Debit Card	Bank		Cashback Card	Credit Card				Zomato	Online		City Fuel Station
+Grocery 🛒	Snacks & Beverages		Net Banking	Bank		Travel Card	Credit Card				Blinkit	Online		Wellness Pharmacy
+Food 🍔	Restaurant		Cash	Cash		Mobile Wallet	Wallet				Other Online 🌐	Online		Urban Threads
+Food 🍔	Street Food		Wallet	Wallet							Local Shop / Kirana	Offline		Spice Route Café
+Food 🍔	Food Delivery										Supermarket	Offline		Metro Electronics
+Food 🍔	Tea & Coffee										Restaurant / Café	Offline
+Fuel ⛽	Petrol										Petrol Pump	Offline
+Fuel ⛽	Diesel										Medical Store	Offline
+Transport 🚕	Auto / Rickshaw										Street Vendor	Offline
+Transport 🚕	Cab										Other Offline	Offline
+Transport 🚕	Bus
+Transport 🚕	Train / Metro
+Shopping 🛍️	Clothes
+Shopping 🛍️	Electronics
+Shopping 🛍️	Kitchenware
+Utility Bills 💡	Electricity
+Utility Bills 💡	Mobile Recharge
+Utility Bills 💡	Internet / Broadband
+Health 💊	Medicines
+Health 💊	Doctor
+Entertainment 🎬	Movies
+Entertainment 🎬	Subscriptions
+Finance 💰	Credit Card Bill
+Finance 💰	EMI
+Finance 💰	Investment / SIP
